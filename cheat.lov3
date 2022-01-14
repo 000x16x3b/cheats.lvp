@@ -1,0 +1,21 @@
+{
+ "Cheats": [
+{
+ "Game": "Rust",
+ "Use": "Foxy",
+ "GameIcon": "https://foxyclient.com/loader/icons/rust.png",
+ "CheatName": "FoxyClient Rage Cheat", 
+ "Version": "v1.0", 
+ "Server": "All", 
+ "State": "Updating", 
+ "LastUpdate": "06.01.2022", 
+ "Thread": "#",
+ "About": "Coming Soon Foxy New Hack :)",
+ "Premium": "true",
+ "FileType": "Exe", 
+ "TargetProcess": "RustClient.exe", 
+ "InjectionType": "Native", 
+ "Data": "https://foxyclient.com/loader/data/z"
+ }
+]
+}
